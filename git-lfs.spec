@@ -4,7 +4,7 @@
 
 Name:		git-lfs
 Version:	3.2.0
-Release:	1
+Release:	2
 Group:		Development/Tools
 # git-lfs doesn't like being built from tarballs (uses "git describe" and friends
 # in Makefiles), so instead of grabbing
