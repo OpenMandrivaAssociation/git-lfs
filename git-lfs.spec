@@ -28,6 +28,7 @@ License:	MIT
 BuildRequires:	golang
 BuildRequires:	ronn
 BuildRequires:	make
+BuildRequires:	asciidoctor
 Requires:	git-core
 
 %description
