@@ -3,8 +3,8 @@
 %define debug_package %{nil}
 
 Name:		git-lfs
-Version:	3.2.0
-Release:	2
+Version:	3.5.1
+Release:	1
 Group:		Development/Tools
 # git-lfs doesn't like being built from tarballs (uses "git describe" and friends
 # in Makefiles), so instead of grabbing
